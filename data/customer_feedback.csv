@@ -1,0 +1,121 @@
+CustomerID,Timestamp,Category,FeedbackText,Score,Sentiment
+CUST-1291,2026-06-09 13:56:36,Customer Support,Support team resolved our configuration issue in 10 minutes.,5,Positive
+CUST-1074,2026-03-29 13:56:36,UX/UI Design,"Extremely polished user interface, feels state-of-the-art.",5,Positive
+CUST-1437,2026-05-11 13:56:36,Pricing,Great platform but a bit expensive for small startups.,3,Neutral
+CUST-1042,2026-03-20 13:56:36,Customer Support,Support staff is helpful but lacks technical depth.,3,Neutral
+CUST-1408,2026-05-03 13:56:36,Product Features,Love the cohort retention heatmaps! Very insightful.,5,Positive
+CUST-1027,2026-03-24 13:56:36,Product Features,The AI reporting feature saves us at least 5 hours a week.,5,Positive
+CUST-1253,2026-05-14 13:56:36,Pricing,Pricing structure is confusing and tiers scale too fast.,2,Negative
+CUST-1328,2026-05-17 13:56:36,Product Features,Needs more direct integrations with Salesforce and HubSpot.,3,Neutral
+CUST-1212,2026-04-20 13:56:36,Customer Support,Support team resolved our configuration issue in 10 minutes.,5,Positive
+CUST-1122,2026-05-07 13:56:36,Product Features,Needs more direct integrations with Salesforce and HubSpot.,3,Neutral
+CUST-1265,2026-06-05 13:56:36,UX/UI Design,Clean and interactive charts! Highly intuitive.,5,Positive
+CUST-1197,2026-04-01 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1424,2026-04-26 13:56:36,Customer Support,Support staff is helpful but lacks technical depth.,3,Neutral
+CUST-1418,2026-04-28 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1337,2026-06-05 13:56:36,UX/UI Design,Looks modern but mobile responsiveness could be improved.,3,Neutral
+CUST-1366,2026-05-13 13:56:36,Pricing,Pricing is perfectly aligned with the value we get.,5,Positive
+CUST-1485,2026-04-05 13:56:36,UX/UI Design,Clean and interactive charts! Highly intuitive.,5,Positive
+CUST-1203,2026-06-07 13:56:36,Product Features,AI recommendation engine is decent but needs custom prompts.,4,Positive
+CUST-1196,2026-06-01 13:56:36,Pricing,Pricing is perfectly aligned with the value we get.,5,Positive
+CUST-1288,2026-05-15 13:56:36,UX/UI Design,Clean and interactive charts! Highly intuitive.,5,Positive
+CUST-1236,2026-06-02 13:56:36,Pricing,"A bit steep, but standard for the industry.",4,Positive
+CUST-1473,2026-05-06 13:56:36,UX/UI Design,Looks modern but mobile responsiveness could be improved.,3,Neutral
+CUST-1233,2026-03-19 13:56:36,Customer Support,"Hard to reach support, took 2 days for a reply.",2,Negative
+CUST-1093,2026-05-10 13:56:36,Product Features,Needs more direct integrations with Salesforce and HubSpot.,3,Neutral
+CUST-1150,2026-04-28 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1151,2026-04-26 13:56:36,Pricing,Great platform but a bit expensive for small startups.,3,Neutral
+CUST-1053,2026-05-28 13:56:36,Pricing,Pricing is perfectly aligned with the value we get.,5,Positive
+CUST-1058,2026-05-20 13:56:36,Pricing,Enterprise plan offers good value for large teams.,5,Positive
+CUST-1319,2026-06-04 13:56:36,Product Features,Needs more direct integrations with Salesforce and HubSpot.,3,Neutral
+CUST-1030,2026-04-21 13:56:36,Product Features,Love the cohort retention heatmaps! Very insightful.,5,Positive
+CUST-1251,2026-05-15 13:56:36,Reliability/Bugs,Frequent timeouts when running heavy data analysis.,2,Negative
+CUST-1330,2026-05-13 13:56:36,UX/UI Design,Clean and interactive charts! Highly intuitive.,5,Positive
+CUST-1342,2026-03-31 13:56:36,Customer Support,Support team resolved our configuration issue in 10 minutes.,5,Positive
+CUST-1325,2026-04-02 13:56:36,Product Features,Needs more direct integrations with Salesforce and HubSpot.,3,Neutral
+CUST-1194,2026-04-25 13:56:36,Product Features,The AI reporting feature saves us at least 5 hours a week.,5,Positive
+CUST-1436,2026-04-13 13:56:36,Product Features,Love the cohort retention heatmaps! Very insightful.,5,Positive
+CUST-1343,2026-04-04 13:56:36,Product Features,The AI reporting feature saves us at least 5 hours a week.,5,Positive
+CUST-1123,2026-04-14 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1323,2026-05-21 13:56:36,Pricing,Pricing is perfectly aligned with the value we get.,5,Positive
+CUST-1020,2026-04-14 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1046,2026-05-30 13:56:36,Product Features,Needs more direct integrations with Salesforce and HubSpot.,3,Neutral
+CUST-1006,2026-05-07 13:56:36,Customer Support,Support staff is helpful but lacks technical depth.,3,Neutral
+CUST-1244,2026-05-24 13:56:36,UX/UI Design,"Beautiful UI, but dark mode should be more customizable.",4,Positive
+CUST-1399,2026-04-27 13:56:36,Product Features,Needs more direct integrations with Salesforce and HubSpot.,3,Neutral
+CUST-1160,2026-03-19 13:56:36,Customer Support,Support team resolved our configuration issue in 10 minutes.,5,Positive
+CUST-1467,2026-04-12 13:56:36,Pricing,Great platform but a bit expensive for small startups.,3,Neutral
+CUST-1282,2026-04-26 13:56:36,Customer Support,Support staff is helpful but lacks technical depth.,3,Neutral
+CUST-1061,2026-05-26 13:56:36,Product Features,The AI reporting feature saves us at least 5 hours a week.,5,Positive
+CUST-1406,2026-04-23 13:56:36,Pricing,Pricing is perfectly aligned with the value we get.,5,Positive
+CUST-1314,2026-05-18 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1155,2026-04-24 13:56:36,Customer Support,Support team resolved our configuration issue in 10 minutes.,5,Positive
+CUST-1490,2026-03-21 13:56:36,UX/UI Design,Looks modern but mobile responsiveness could be improved.,3,Neutral
+CUST-1092,2026-04-19 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1164,2026-04-26 13:56:36,Product Features,Love the cohort retention heatmaps! Very insightful.,5,Positive
+CUST-1339,2026-05-27 13:56:36,Customer Support,Support team resolved our configuration issue in 10 minutes.,5,Positive
+CUST-1063,2026-03-18 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1064,2026-04-06 13:56:36,Customer Support,Support team resolved our configuration issue in 10 minutes.,5,Positive
+CUST-1462,2026-04-20 13:56:36,Product Features,The AI reporting feature saves us at least 5 hours a week.,5,Positive
+CUST-1158,2026-03-29 13:56:36,Customer Support,Support staff is helpful but lacks technical depth.,3,Neutral
+CUST-1178,2026-05-01 13:56:36,UX/UI Design,Looks modern but mobile responsiveness could be improved.,3,Neutral
+CUST-1171,2026-04-27 13:56:36,UX/UI Design,Clean and interactive charts! Highly intuitive.,5,Positive
+CUST-1001,2026-03-23 13:56:36,UX/UI Design,Clean and interactive charts! Highly intuitive.,5,Positive
+CUST-1496,2026-03-30 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1309,2026-04-11 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1232,2026-04-24 13:56:36,Product Features,Needs more direct integrations with Salesforce and HubSpot.,3,Neutral
+CUST-1068,2026-04-04 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1300,2026-04-13 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1191,2026-05-02 13:56:36,Product Features,The AI reporting feature saves us at least 5 hours a week.,5,Positive
+CUST-1141,2026-05-30 13:56:36,Pricing,Great platform but a bit expensive for small startups.,3,Neutral
+CUST-1036,2026-05-25 13:56:36,Product Features,Love the cohort retention heatmaps! Very insightful.,5,Positive
+CUST-1121,2026-04-22 13:56:36,Customer Support,Support team resolved our configuration issue in 10 minutes.,5,Positive
+CUST-1243,2026-05-09 13:56:36,Reliability/Bugs,Frequent timeouts when running heavy data analysis.,2,Negative
+CUST-1214,2026-04-25 13:56:36,Product Features,The AI reporting feature saves us at least 5 hours a week.,5,Positive
+CUST-1182,2026-05-03 13:56:36,Customer Support,"Hard to reach support, took 2 days for a reply.",2,Negative
+CUST-1400,2026-05-29 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1430,2026-03-24 13:56:36,Customer Support,Support staff is helpful but lacks technical depth.,3,Neutral
+CUST-1380,2026-05-27 13:56:36,Pricing,Enterprise plan offers good value for large teams.,5,Positive
+CUST-1285,2026-03-22 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1076,2026-06-10 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1103,2026-06-09 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1302,2026-04-01 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1393,2026-03-16 13:56:36,Customer Support,Support team resolved our configuration issue in 10 minutes.,5,Positive
+CUST-1199,2026-05-27 13:56:36,Pricing,"A bit steep, but standard for the industry.",4,Positive
+CUST-1442,2026-03-18 13:56:36,Pricing,Pricing is perfectly aligned with the value we get.,5,Positive
+CUST-1398,2026-05-07 13:56:36,UX/UI Design,"Extremely polished user interface, feels state-of-the-art.",5,Positive
+CUST-1201,2026-03-26 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1105,2026-05-21 13:56:36,Pricing,Enterprise plan offers good value for large teams.,5,Positive
+CUST-1278,2026-05-20 13:56:36,Reliability/Bugs,API connection drops occasionally during database sync.,2,Negative
+CUST-1241,2026-03-28 13:56:36,UX/UI Design,Looks modern but mobile responsiveness could be improved.,3,Neutral
+CUST-1149,2026-04-21 13:56:36,Customer Support,"Hard to reach support, took 2 days for a reply.",2,Negative
+CUST-1066,2026-05-14 13:56:36,UX/UI Design,"Beautiful UI, but dark mode should be more customizable.",4,Positive
+CUST-1217,2026-05-08 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1385,2026-03-28 13:56:36,UX/UI Design,"Extremely polished user interface, feels state-of-the-art.",5,Positive
+CUST-1237,2026-05-02 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1293,2026-06-02 13:56:36,UX/UI Design,"Extremely polished user interface, feels state-of-the-art.",5,Positive
+CUST-1431,2026-05-08 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1316,2026-03-31 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1409,2026-05-06 13:56:36,Pricing,Great platform but a bit expensive for small startups.,3,Neutral
+CUST-1290,2026-03-24 13:56:36,Pricing,"A bit steep, but standard for the industry.",4,Positive
+CUST-1284,2026-05-11 13:56:36,Product Features,Needs more direct integrations with Salesforce and HubSpot.,3,Neutral
+CUST-1416,2026-05-01 13:56:36,Product Features,AI recommendation engine is decent but needs custom prompts.,4,Positive
+CUST-1075,2026-03-16 13:56:36,Pricing,"A bit steep, but standard for the industry.",4,Positive
+CUST-1110,2026-05-10 13:56:36,Customer Support,Amazing onboarding assistance. 10/10.,5,Positive
+CUST-1276,2026-05-21 13:56:36,UX/UI Design,Looks modern but mobile responsiveness could be improved.,3,Neutral
+CUST-1311,2026-05-01 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1395,2026-03-30 13:56:36,Product Features,AI recommendation engine is decent but needs custom prompts.,4,Positive
+CUST-1304,2026-04-28 13:56:36,Customer Support,Support staff is helpful but lacks technical depth.,3,Neutral
+CUST-1190,2026-05-09 13:56:36,Customer Support,Support staff is helpful but lacks technical depth.,3,Neutral
+CUST-1034,2026-05-30 13:56:36,Pricing,Great platform but a bit expensive for small startups.,3,Neutral
+CUST-1054,2026-05-22 13:56:36,Pricing,Enterprise plan offers good value for large teams.,5,Positive
+CUST-1245,2026-04-04 13:56:36,Pricing,Pricing structure is confusing and tiers scale too fast.,2,Negative
+CUST-1269,2026-04-02 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1035,2026-04-21 13:56:36,Reliability/Bugs,"Solid performance, never experienced downtime.",5,Positive
+CUST-1268,2026-05-23 13:56:36,Reliability/Bugs,"Occasional bugs in file upload, but refreshing fixes it.",3,Neutral
+CUST-1100,2026-06-03 13:56:36,Product Features,Love the cohort retention heatmaps! Very insightful.,5,Positive
+CUST-1453,2026-06-01 13:56:36,UX/UI Design,"Beautiful UI, but dark mode should be more customizable.",4,Positive
+CUST-1153,2026-03-29 13:56:36,Product Features,Love the cohort retention heatmaps! Very insightful.,5,Positive
+CUST-1392,2026-03-23 13:56:36,Pricing,Pricing is perfectly aligned with the value we get.,5,Positive
+CUST-1280,2026-05-24 13:56:36,Pricing,Great platform but a bit expensive for small startups.,3,Neutral
+CUST-1003,2026-03-23 13:56:36,Pricing,Pricing is perfectly aligned with the value we get.,5,Positive
