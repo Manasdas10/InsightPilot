@@ -1,0 +1,25 @@
+# Environment configuration files (contains keys)
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Local SQLite databases
+*.db
+
+# Streamlit config / cache files
+.streamlit/
+!.streamlit/config.toml
+
+# Temporary generated test output
+*.pdf
+data/agent_report.pdf
